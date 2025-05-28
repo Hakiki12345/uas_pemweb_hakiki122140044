@@ -76,8 +76,8 @@ requires = [
 ### Langkah 1: Clone Repository
 
 ```powershell
-git clone <repository-url>
-cd toko-baju
+git clone https://github.com/Hakiki12345/uas_pemweb_hakiki122140044.git
+cd uas_pemweb_hakiki122140044
 ```
 
 ### Langkah 2: Konfigurasi Database
